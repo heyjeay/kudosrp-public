@@ -36,3 +36,9 @@ Please adhere to the following rules:
 * [Discord](https://discord.gg/kudosrp)
 * [Website](https://kudosrp.com/)
 * [Tebex](https://kudosrp.tebex.io/)
+
+* ## Developers Use
+Please include in your commit
+```
+Fixes heyjeay/kudosrp-public#<ISSUE#>
+```
