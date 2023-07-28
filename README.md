@@ -38,7 +38,12 @@ Please adhere to the following rules:
 * [Tebex](https://kudosrp.tebex.io/)
 
 * ## Developers Use
-Please include in your commit
+Please include in your commit to reference the issue
+```
+related to heyjeay/kudosrp-public#<ISSUE#>
+```
+
+If you want to close the issue with your commit use
 ```
 Fixes heyjeay/kudosrp-public#<ISSUE#>
 ```
